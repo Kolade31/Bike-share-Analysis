@@ -1,2 +1,10 @@
 # Bike-share-Analysis
-the aim of this project is to identify opportunities for targeted marketing campaigns to convert casual riders into annual members. This will be done through analysis of bike trip data and understanding user behaviour and preferences. The ultimate goal is to increase profitability and drive future growth for the company.
+The aim of this project is to identify opportunities for targeted marketing campaigns to convert casual riders into annual members. This will be done through analysis of bike trip data and understanding user behaviour and preferences. The ultimate goal is to increase profitability and drive future growth for the company.
+## Introduction
+Cyclistic is a bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can’t use a standard two-wheeled bike. The majority of riders opt for traditional bikes; about 8% of riders use the assistive options. Cyclistic users are more likely to ride for leisure, but about 30% use them to commute to work each day. 
+
+Until now, Cyclistic’s marketing strategy relied on building general awareness and appealing to broad consumer segments. One approach that helped make these things possible was the flexibility of its pricing plans: single-ride passes, full-day passes, and annual memberships. Customers who purchase single-ride or full-day passes are referred to as casual riders. Customers who purchase annual memberships are Cyclistic members. Cyclistic’s finance analysts have concluded that annual members are much more profitable than casual riders. Although the pricing flexibility helps Cyclistic attract more customers, The Marketing Team believes that maximizing the number of annual members will be key to future growth.
+profitability and drive future growth for the company.
+
+## Description of Data Source and Tools used
+The data has been organized in monthly and quarterly periods. Since this project was started in May of 2023, the data from April 2022 to May 2023 has been selected. The data has been made available by Motivate International Inc. This is public data that you can use to explore how different customer types are using Cyclistic bikes. 
